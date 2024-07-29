@@ -1,7 +1,5 @@
 # Hello world, I'm Moses known as Sureking. 👋
 
-# Hi there, I'm [Your Name] 👋
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=SurekingDevone)
 
 ## About Me

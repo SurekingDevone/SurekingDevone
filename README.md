@@ -31,4 +31,4 @@ I'm from Indonesia, age 18. I was born in 2006 as a self-learner. I have experie
 
 
 ## Website Projects
-[![](https://img.shields.io/badge/-🩸%20Useful_tools_web_based-Growtopia-purple)](https://github.com/SurekingDevone/GrowTools)
+[![](https://img.shields.io/badge/-🌐%20Useful_tools_web_based-Growtopia-blue)](https://github.com/SurekingDevone/GrowTools)

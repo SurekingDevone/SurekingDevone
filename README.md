@@ -12,6 +12,9 @@ I'm from Indonesia, age 18. I was born in 2006 as a self-learner. I have experie
 - **Cyber Security**: Deface, DDoS Mitigation.
 - **Spoken Language**: Indonesia,English.
 
+## Experience
+- ![Experience in FiveM server game development (fullstack)](https://img.shields.io/badge/-Lua-000?&logo=Lua)
+
 ## Contact
 - [Email](mailto:discordpapp@gmail.com)
 

@@ -14,7 +14,12 @@ I'm from Indonesia, age 18. I was born in 2006 as a self-learner. I have experie
 
 ## Experience
 - ![FiveM](https://img.shields.io/badge/-FiveM_server_game_fullstack_developer-000?&logo=Lua)
-- ![CloudComputing](https://img.shields.io/badge/-Growtopia_private_server_game-000?&logo=Cpp)
+- ![Growtopia](https://img.shields.io/badge/-Growtopia_private_server_game_developer-000?&logo=c%2b%2b)
+- ![Mikrotik](https://img.shields.io/badge/-Mikrotik-000?&logo=mikrotik)
+- ![Entrepreneur](https://img.shields.io/badge/-Entrepreneur-000?&logo=cachet)
+- ![CloudComputing](https://img.shields.io/badge/-Cloud_Computing-000?&logo=amazonwebservices)
+
+
 
 ## Contact
 - [Email](mailto:discordpapp@gmail.com)

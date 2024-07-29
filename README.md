@@ -13,7 +13,8 @@ I'm from Indonesia, age 18. I was born in 2006 as a self-learner. I have experie
 - **Spoken Language**: Indonesia,English.
 
 ## Experience
-- ![TEST](https://img.shields.io/badge/-Lua-000?&logo=Lua)
+- ![FiveM](https://img.shields.io/badge/-FiveM_server_game_fullstack_developer-000?&logo=Lua)
+- ![CloudComputing](https://img.shields.io/badge/-Growtopia_private_server_game-000?&logo=Cpp)
 
 ## Contact
 - [Email](mailto:discordpapp@gmail.com)

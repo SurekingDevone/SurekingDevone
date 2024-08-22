@@ -5,6 +5,7 @@
 ## About Me
 I'm from Indonesia, age 18. I was born in 2006 as a self-learner. I have experience developing private server games and personal games, customer service, cloud computing, cyber security, and IT support.
 
+Level : Beginner :)
 
 ## Skills
 - **Languages**: Python,Javascript,C++,SQL,LUA.

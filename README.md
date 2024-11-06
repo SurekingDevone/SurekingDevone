@@ -10,7 +10,6 @@ Level : Beginner :)
 ## Skills
 - **Languages**: Python,Javascript,C++,SQL,LUA.
 - **Cloud Computing**: Aws,Azure,Google Cloud,Vultr,Akamai Linode.
-- **Cyber Security**: Deface, DDoS Mitigation.
 - **Spoken Language**: Indonesia,English.
 
 ## Experience
